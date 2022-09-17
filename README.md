@@ -2,7 +2,7 @@
 
 I created this repository to be a simple demonstration of a PHP Hello World program with Visual Studio Code IDE and GitHub.
 
-[Software Demo Video](pending)
+[Software Demo Video](pending) *pending*
 
 # Development Environment
 
